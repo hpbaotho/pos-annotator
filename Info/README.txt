@@ -2,7 +2,7 @@
 # Author: bulbul
 
 DESCRIPTION
-This is a lightweight tool for annotation of corpus data with POS tags designed for ease of use and speed.
+This is a lightweight tool for annotation of corpus data with POS tags designed for ease of use and speed of processing.
 
 PREREQUISITES FOR RUNNING
  1. .NET Framework 4.5
