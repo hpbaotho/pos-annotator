@@ -6,8 +6,8 @@ This is a lightweight tool for annotation of corpus data with POS tags designed 
 
 PREREQUISITES FOR RUNNING
  1. .NET Framework 4.5
- 2. A tagset file with all the POS tags, one tag per line.(default extension is *.list, see  the provided example file "tagset.list" [1]).
- 3. A vertical text file, i.e. one token per line (default extension is *.vrt, see the provided example file "corpus.vrt"). 
+ 2. A tagset file with all the POS tags, one tag per line.(default extension is *.list, see  the provided example file "Samples/tagset.list" [1]).
+ 3. A vertical text file, i.e. one token per line (default extension is *.vrt, see the provided example file "Samples/corpus.vrt"). 
  The file can already be preannotated (all of it or just some tokens), in which case the tag must be separated from the token by a tab.  If the tag is in the tagset, it will be copied to the editing interface.
 
 HOW TO USE

@@ -32,3 +32,4 @@ C:\download\_working\_corpus_Malti\04-tagging_tools\99-app\POS_Annotator\POS_Ann
 C:\download\_working\_corpus_Malti\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\obj\Debug\POS_Annotator.exe.manifest
 C:\download\_working\_corpus_Malti\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\obj\Debug\POS_Annotator.application
 E:\Lajstra\_working\_corpus_Malti\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\obj\Debug\POS_Annotator.AboutBox1.resources
+E:\Lajstra\_working\_corpus_Malti\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\obj\Debug\POS_Annotator.csprojResolveAssemblyReference.cache
