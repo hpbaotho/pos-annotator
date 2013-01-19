@@ -1,0 +1,35 @@
+c:\users\bulbul\documents\visual studio 2012\Projects\POS_Annotator\POS_Annotator\bin\Debug\POS_Annotator.exe.config
+c:\users\bulbul\documents\visual studio 2012\Projects\POS_Annotator\POS_Annotator\bin\Debug\POS_Annotator.exe
+c:\users\bulbul\documents\visual studio 2012\Projects\POS_Annotator\POS_Annotator\bin\Debug\POS_Annotator.pdb
+c:\users\bulbul\documents\visual studio 2012\Projects\POS_Annotator\POS_Annotator\obj\Debug\POS_Annotator.Form1.resources
+c:\users\bulbul\documents\visual studio 2012\Projects\POS_Annotator\POS_Annotator\obj\Debug\POS_Annotator.Properties.Resources.resources
+c:\users\bulbul\documents\visual studio 2012\Projects\POS_Annotator\POS_Annotator\obj\Debug\POS_Annotator.csproj.GenerateResource.Cache
+c:\users\bulbul\documents\visual studio 2012\Projects\POS_Annotator\POS_Annotator\obj\Debug\POS_Annotator.exe
+c:\users\bulbul\documents\visual studio 2012\Projects\POS_Annotator\POS_Annotator\obj\Debug\POS_Annotator.pdb
+c:\users\bulbul\documents\visual studio 2012\Projects\POS_Annotator\POS_Annotator\obj\Debug\POS_Annotator.csprojResolveAssemblyReference.cache
+E:\Lajstra\_working\_corpus_Malti\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\bin\Debug\POS_Annotator.exe.config
+E:\Lajstra\_working\_corpus_Malti\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\obj\Debug\POS_Annotator.exe
+E:\Lajstra\_working\_corpus_Malti\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\obj\Debug\POS_Annotator.pdb
+E:\Lajstra\_working\_corpus_Malti\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\bin\Debug\POS_Annotator.exe
+E:\Lajstra\_working\_corpus_Malti\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\bin\Debug\POS_Annotator.pdb
+E:\Lajstra\_working\_corpus_Malti\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\obj\Debug\POS_Annotator.csprojResolveAssemblyReference.cache
+E:\Lajstra\_working\_corpus_Malti\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\obj\Debug\POS_Annotator.Form1.resources
+E:\Lajstra\_working\_corpus_Malti\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\obj\Debug\POS_Annotator.Properties.Resources.resources
+E:\Lajstra\_working\_corpus_Malti\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\obj\Debug\POS_Annotator.csproj.GenerateResource.Cache
+C:\download\_working\_corpus_Malti\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\bin\Debug\POS_Annotator.exe.config
+C:\download\_working\_corpus_Malti\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\obj\Debug\POS_Annotator.exe
+C:\download\_working\_corpus_Malti\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\obj\Debug\POS_Annotator.pdb
+C:\download\_working\_corpus_Malti\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\bin\Debug\POS_Annotator.exe
+C:\download\_working\_corpus_Malti\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\bin\Debug\POS_Annotator.pdb
+C:\download\_working\_corpus_Malti\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\obj\Debug\POS_Annotator.csprojResolveAssemblyReference.cache
+C:\download\_working\_corpus_Malti\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\obj\Debug\POS_Annotator.Form1.resources
+C:\download\_working\_corpus_Malti\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\obj\Debug\POS_Annotator.Properties.Resources.resources
+C:\download\_working\_corpus_Malti\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\obj\Debug\POS_Annotator.csproj.GenerateResource.Cache
+E:\Lajstra\_working\_corpus_Malti\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\bin\Debug\POS_Annotator.exe.manifest
+E:\Lajstra\_working\_corpus_Malti\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\bin\Debug\POS_Annotator.application
+E:\Lajstra\_working\_corpus_Malti\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\obj\Debug\POS_Annotator.exe.manifest
+E:\Lajstra\_working\_corpus_Malti\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\obj\Debug\POS_Annotator.application
+C:\download\_working\_corpus_Malti\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\bin\Debug\POS_Annotator.exe.manifest
+C:\download\_working\_corpus_Malti\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\bin\Debug\POS_Annotator.application
+C:\download\_working\_corpus_Malti\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\obj\Debug\POS_Annotator.exe.manifest
+C:\download\_working\_corpus_Malti\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\obj\Debug\POS_Annotator.application
