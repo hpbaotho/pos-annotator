@@ -184,7 +184,6 @@
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.listView1.Font = new System.Drawing.Font("Verdana", 10.25F);
-            this.listView1.HoverSelection = true;
             this.listView1.Location = new System.Drawing.Point(773, 92);
             this.listView1.MaximumSize = new System.Drawing.Size(562, 1098);
             this.listView1.MinimumSize = new System.Drawing.Size(281, 549);

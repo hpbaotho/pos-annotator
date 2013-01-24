@@ -4,7 +4,7 @@
   <description asmv2:iconFile="POS_Annotator.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="POS_Annotator" version="0.9.4773.799" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="POS_Annotator" version="0.9.4773.949" language="neutral" processorArchitecture="msil" />
     <commandLine file="POS_Annotator.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -44,13 +44,13 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="POS_Annotator.exe" size="117760">
-      <assemblyIdentity name="POS_Annotator" version="0.9.4773.799" language="neutral" processorArchitecture="msil" />
+      <assemblyIdentity name="POS_Annotator" version="0.9.4773.949" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>X7k9DFjmidxHF2Ki66V1zHDDiIZaN8JibaYYDGIOoPY=</dsig:DigestValue>
+        <dsig:DigestValue>R+0J/kg5NQ83KcF8WJi+qoHQahkpeS5+d4b8gEGbZ3U=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
