@@ -33,3 +33,16 @@ C:\download\_working\_corpus_Malti\04-tagging_tools\99-app\POS_Annotator\POS_Ann
 C:\download\_working\_corpus_Malti\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\obj\Debug\POS_Annotator.application
 E:\Lajstra\_working\_corpus_Malti\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\obj\Debug\POS_Annotator.AboutBox1.resources
 E:\Lajstra\_working\_corpus_Malti\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\obj\Debug\POS_Annotator.csprojResolveAssemblyReference.cache
+e:\Lajstra\_working\_Malti_corpus\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\bin\Debug\POS_Annotator.exe.config
+e:\Lajstra\_working\_Malti_corpus\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\obj\Debug\POS_Annotator.exe
+e:\Lajstra\_working\_Malti_corpus\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\obj\Debug\POS_Annotator.pdb
+e:\Lajstra\_working\_Malti_corpus\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\bin\Debug\POS_Annotator.exe.manifest
+e:\Lajstra\_working\_Malti_corpus\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\bin\Debug\POS_Annotator.application
+e:\Lajstra\_working\_Malti_corpus\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\bin\Debug\POS_Annotator.exe
+e:\Lajstra\_working\_Malti_corpus\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\bin\Debug\POS_Annotator.pdb
+e:\Lajstra\_working\_Malti_corpus\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\obj\Debug\POS_Annotator.AboutBox1.resources
+e:\Lajstra\_working\_Malti_corpus\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\obj\Debug\POS_Annotator.Form1.resources
+e:\Lajstra\_working\_Malti_corpus\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\obj\Debug\POS_Annotator.Properties.Resources.resources
+e:\Lajstra\_working\_Malti_corpus\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\obj\Debug\POS_Annotator.csproj.GenerateResource.Cache
+e:\Lajstra\_working\_Malti_corpus\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\obj\Debug\POS_Annotator.exe.manifest
+e:\Lajstra\_working\_Malti_corpus\04-tagging_tools\99-app\POS_Annotator\POS_Annotator\obj\Debug\POS_Annotator.application
