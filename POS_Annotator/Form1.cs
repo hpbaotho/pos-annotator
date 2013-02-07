@@ -142,7 +142,7 @@ namespace POS_Annotator
 
                     if (init_cl == 0) // default position is 0,0, so move the focus to the next editable cell
                     {
-                        while (dataGridView1[1, init_rw].Value != null && init_rw < dataGridView1.Rows.Count)
+                        while (dataGridView1[1, init_rw].Value != null && init_rw < dataGridView1.Rows.Count - 1)
                         {
                             init_rw++;
                         }
